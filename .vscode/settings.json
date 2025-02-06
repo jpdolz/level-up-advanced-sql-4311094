@@ -18,7 +18,7 @@
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 12,
   "window.zoomLevel": 3,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Default High Contrast",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   "sqltools.connections": [
